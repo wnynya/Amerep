@@ -1,0 +1,12 @@
+{
+  "example": {
+    "private": false,
+    "channels": {
+      "packages": { "primary": true }
+    },
+    "maven": {
+      "groupId": "com.example",
+      "artifactId": "Example"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "examplekey1234567890": {
+    "permissions": ["packages.example.*"]
+  }
+}

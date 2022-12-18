@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "target": {
+    "path": "/home/wnynya/playground/abottest/Amethy-1.0.0.jar",
+    "delay": 2000,
+    "minkb": 1800
+  },
+  "repo": {
+    "host": "lab-3000.wany.io",
+    "path": "",
+    "port": "443",
+    "key": "examplekey1234567890"
+  },
+  "channels": {
+    "default": {
+      "name": "packages",
+      "version": "{version}-{timestamp:YYMMDD-hhmmss}"
+    }
+  }
+}

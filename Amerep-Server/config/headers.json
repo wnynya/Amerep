@@ -1,0 +1,12 @@
+{
+  "Access-Control-Allow-Credentials": "true",
+  "Access-Control-Allow-Headers": "'O, Authorization, Accept, Content-Type, Origin, X-Access-Token, X-Requested-With",
+  "Access-Control-Allow-Methods": "GET, POST, PATCH, PUT, DELETE, OPTIONS",
+  "Access-Control-Allow-Origin": [],
+  "Service-Worker-Allowed": "/",
+  "X-Frame-Options": "sameorigin",
+  "Server": "amerepo",
+  "X-Powered-By": "amerepo",
+  "X-Redirect-By": "amerepo",
+  "X-Hacker": ":)"
+}

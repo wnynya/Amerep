@@ -1,0 +1,8 @@
+{
+  "debug": true,
+  "host": "",
+  "port": {
+    "http": 3000
+  },
+  "storage": ""
+}
